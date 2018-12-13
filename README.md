@@ -29,5 +29,9 @@
 * Формальное определение темы курсового проекта (наименование информационной системы) – Система хранения и применения машиночитаемых цифровых стандартов.
 
 IDEF0-диаграммы:
-![none]()
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-1.png)
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-2.png)
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-3.png)
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-4.png)
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-5.png)
 [rsf-файл]()
