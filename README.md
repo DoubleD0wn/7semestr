@@ -34,4 +34,4 @@ IDEF0-диаграммы:
 ![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-3.png)
 ![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-4.png)
 ![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab-5.png)
-[rsf-файл]()
+[rsf-файл](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/IDEF0%204lab.rsf)
