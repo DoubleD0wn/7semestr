@@ -48,3 +48,5 @@ IDEF0-диаграммы:
   * Память ПК
 ### Разработка диаграмм в RAMUS                                       
 Декомпозиция всех автоматизируемых блоков в DFD
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/DFD%205lab-1.PNG)
+![none](https://github.com/DoubleD0wn/DoubleD0wn.github.io/blob/master/DFD%205lab-2.PNG)
